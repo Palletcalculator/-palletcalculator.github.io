@@ -1,1 +1,1 @@
-# -palletcalculator.github.io
+# /palletcalculator.github.io
